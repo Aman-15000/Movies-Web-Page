@@ -1,15 +1,9 @@
-# Project Title: Lights, Camera, Action! 🎬
-
-[![License: MIT](https://img.shields.io)](https://opensource.org)
-[![Project Status: Active](https://img.shields.io)]()
+# Project Title: Movies Website 🎬
 
 ## Overview
 This project is a dynamic and responsive web application for browsing and discovering information about movies and web series. The application leverages modern web technologies (HTML, CSS, JavaScript) and integrates with a third-party API (like [The Movie Database (TMDB) API](https://www.themoviedb.org) or [OMDb API](http://www.omdbapi.com)) to fetch and display up-to-date data, including titles, synopses, ratings, and cast details.
 
 The primary motivation for this project was to build a user-friendly platform for movie enthusiasts while enhancing my skills in fetching and handling data from APIs using vanilla JavaScript.
-
-### Live Demo
-Experience the application live: **[Link to Live Demo URL Here](https://your-live-demo-link.com)**.
 
 ## Features
 *   **Intuitive Search:** Easily find your favorite movies or TV shows by title.
@@ -60,13 +54,10 @@ Contributions are welcome! If you have suggestions for features, bug fixes, or i
 
 Please read `CONTRIBUTING.md` (if you create this file) for details on the code of conduct and the process for submitting pull requests.
 
-## License
-This project is licensed under the [MIT License](https://opensource.org) - see the [LICENSE](https://github.com) file for details.
-
 ## Acknowledgments
 *   Data provided by [The Movie Database (TMDB)](https://www.themoviedb.org) or [OMDb API](http://www.omdbapi.com).
 *   Inspiration from online courses and tutorials (optional: add links to specific courses/resources here).
 *   [Shields.io](https://shields.io) for the README badges.
 
 ## Contact
-Created by [@yourusername](https://github.com) - feel free to reach out!
+Created by [Aman-15000](https://github.com) - feel free to reach out!
